@@ -1,2 +1,6 @@
-# taller_miercoles
-Aprendiendo git taller miercoles
+# Taller Miércoles
+- lista
+- de
+- items
+
+***
